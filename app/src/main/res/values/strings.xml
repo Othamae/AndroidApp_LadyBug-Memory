@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LadyBug Memory</string>
+    <string name="texto_inicio1">Memory de</string>
+    <string name="texto_inicio2">LadyBug</string>
+    <string name="boton_inicio">Inicio</string>
+    <string name="boton_salir">Salir</string>
+    <string name="boton_juego_reiniciar">Reiniciar</string>
+    <string name="boton_juego_salir">Salir</string>
+</resources>
